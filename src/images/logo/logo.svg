@@ -1,0 +1,27 @@
+<svg width="154" height="32" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="20.5263" width="5.36841" y="6.2373" x="7.42383" id="filter0_d_1624_24907">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="13.7895" width="5.36841" y="12.9727" x="13.7422" id="filter1_d_1624_24907">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+  <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="18" width="5.36841" y="8.76172" x="20.0547" id="filter2_d_1624_24907">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#465FFF" d="m0,8.42105c0,-4.65082 3.77023,-8.42105 8.42105,-8.42105l15.15785,0c4.6509,0 8.4211,3.77023 8.4211,8.42105l0,15.15785c0,4.6509 -3.7702,8.4211 -8.4211,8.4211l-15.15785,0c-4.65082,0 -8.42105,-3.7702 -8.42105,-8.4211l0,-15.15785z"/>
+  <g id="svg_2" filter="url(#filter0_d_1624_24907)">
+   <path id="svg_3" fill="white" d="m8.42383,8.42152c0,-0.93017 0.75404,-1.68422 1.68417,-1.68422l0,0c0.9302,0 1.6842,0.75405 1.6842,1.68422l0,15.15788c0,0.9302 -0.754,1.6842 -1.6842,1.6842l0,0c-0.93013,0 -1.68417,-0.754 -1.68417,-1.6842l0,-15.15788z"/>
+  </g>
+  <g id="svg_4" filter="url(#filter1_d_1624_24907)">
+   <path id="svg_5" shape-rendering="crispEdges" fill-opacity="0.9" fill="white" d="m14.7422,15.1569c0,-0.9302 0.754,-1.6842 1.6842,-1.6842l0,0c0.9302,0 1.6842,0.754 1.6842,1.6842l0,8.421c0,0.9302 -0.754,1.6842 -1.6842,1.6842l0,0c-0.9302,0 -1.6842,-0.754 -1.6842,-1.6842l0,-8.421z"/>
+  </g>
+  <g id="svg_6" filter="url(#filter2_d_1624_24907)">
+   <path id="svg_7" shape-rendering="crispEdges" fill-opacity="0.7" fill="white" d="m21.0547,10.9459c0,-0.9301 0.754,-1.68418 1.6842,-1.68418l0,0c0.9302,0 1.6842,0.75408 1.6842,1.68418l0,12.6316c0,0.9302 -0.754,1.6842 -1.6842,1.6842l0,0c-0.9302,0 -1.6842,-0.754 -1.6842,-1.6842l0,-12.6316z"/>
+  </g>
+  <text font-weight="bold" style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="'Bodoni Moda'" font-size="24" stroke-width="0" id="svg_17" y="23.5" x="38.5" fill="#000000">Aplikasi</text>
+ </g>
+</svg>
